@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BrachApplication {
 int x = 10;
 int y = 20;
+int y=30
 System.out.println("bug-fix");
 	public static void main(String[] args) {
 		SpringApplication.run(BrachApplication.class, args);
