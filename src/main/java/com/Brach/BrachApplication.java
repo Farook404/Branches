@@ -8,6 +8,7 @@ public class BrachApplication {
 int x = 10;
 int y = 20;
 int y=30
+String s = "farook";
 System.out.println(100);
 System.out.println("bug-fix");
 	public static void main(String[] args) {
