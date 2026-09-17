@@ -14,6 +14,7 @@ System.out.println(100);
 System.out.println("bug-fix");
 System.out.println("x");
 System.out.println("developer");
+System.out.println("Tester");
  
 	public static void main(String[] args) {
 		SpringApplication.run(BrachApplication.class, args);
